@@ -1,0 +1,1 @@
+var PRSFrontServices = angular.module('PRSFrontDirectives', []);
